@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastmosquito.CSharp.Plugins", "lastmosquito.CSharp.Plugins.csproj", "{DC5B4B8A-0480-DF71-3AB3-E58DB7CC92C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastmosquito.CSharp", "lastmosquito.CSharp.csproj", "{A7F4AF7B-2215-984C-D058-58CDF82613FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastmosquito.CSharp.Editor", "lastmosquito.CSharp.Editor.csproj", "{09E3AA68-D5ED-F4B5-27D6-CE45F778D9C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC5B4B8A-0480-DF71-3AB3-E58DB7CC92C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5B4B8A-0480-DF71-3AB3-E58DB7CC92C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5B4B8A-0480-DF71-3AB3-E58DB7CC92C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5B4B8A-0480-DF71-3AB3-E58DB7CC92C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F4AF7B-2215-984C-D058-58CDF82613FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F4AF7B-2215-984C-D058-58CDF82613FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F4AF7B-2215-984C-D058-58CDF82613FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F4AF7B-2215-984C-D058-58CDF82613FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E3AA68-D5ED-F4B5-27D6-CE45F778D9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E3AA68-D5ED-F4B5-27D6-CE45F778D9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E3AA68-D5ED-F4B5-27D6-CE45F778D9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E3AA68-D5ED-F4B5-27D6-CE45F778D9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

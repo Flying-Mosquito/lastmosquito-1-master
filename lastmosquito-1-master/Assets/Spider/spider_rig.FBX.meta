@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: c74dd7cbfd8120844bdbba26b50132ef
+timeCreated: 1468898402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001  L 010
+    100004: Bip001  L 010(mirrored)
+    100006: Bip001  L 012
+    100008: Bip001  L 012(mirrored)
+    100010: Bip001  L 013
+    100012: Bip001  L 013(mirrored)
+    100014: Bip001  L 020
+    100016: Bip001  L 020(mirrored)
+    100018: Bip001  L 022
+    100020: Bip001  L 022(mirrored)
+    100022: Bip001  L 023
+    100024: Bip001  L 023(mirrored)
+    100026: Bip001  L 030
+    100028: Bip001  L 030(mirrored)
+    100030: Bip001  L 032
+    100032: Bip001  L 032(mirrored)
+    100034: Bip001  L 033
+    100036: Bip001  L 033(mirrored)
+    100038: Bip001 Footsteps
+    100040: Bip001 Head
+    100042: Bip001 Neck
+    100044: Bip001 Pelvis
+    100046: Bip001 Spine
+    100048: Bip001 Xtra01
+    100050: Bip001 Xtra0102
+    100052: Bone001
+    100054: Bone001(mirrored)
+    100056: Bone003
+    100058: Bone003(mirrored)
+    100060: Bone004
+    100062: Bone004(mirrored)
+    100064: Circle002
+    100066: Circle003
+    100068: Circle004
+    100070: Circle005
+    100072: Circle006
+    100074: Circle007
+    100076: IK Chain001
+    100078: IK Chain002
+    100080: IK Chain003
+    100082: IK Chain004
+    100084: IK Chain005
+    100086: IK Chain006
+    100088: NGon001
+    100090: NGon002
+    100092: NGon003
+    100094: NGon004
+    100096: NGon005
+    100098: NGon006
+    100100: Point001
+    100102: Point002
+    100104: Point003
+    100106: Point004
+    100108: Point005
+    100110: Point006
+    100112: spider
+    100114: //RootNode
+    400000: Bip001
+    400002: Bip001  L 010
+    400004: Bip001  L 010(mirrored)
+    400006: Bip001  L 012
+    400008: Bip001  L 012(mirrored)
+    400010: Bip001  L 013
+    400012: Bip001  L 013(mirrored)
+    400014: Bip001  L 020
+    400016: Bip001  L 020(mirrored)
+    400018: Bip001  L 022
+    400020: Bip001  L 022(mirrored)
+    400022: Bip001  L 023
+    400024: Bip001  L 023(mirrored)
+    400026: Bip001  L 030
+    400028: Bip001  L 030(mirrored)
+    400030: Bip001  L 032
+    400032: Bip001  L 032(mirrored)
+    400034: Bip001  L 033
+    400036: Bip001  L 033(mirrored)
+    400038: Bip001 Footsteps
+    400040: Bip001 Head
+    400042: Bip001 Neck
+    400044: Bip001 Pelvis
+    400046: Bip001 Spine
+    400048: Bip001 Xtra01
+    400050: Bip001 Xtra0102
+    400052: Bone001
+    400054: Bone001(mirrored)
+    400056: Bone003
+    400058: Bone003(mirrored)
+    400060: Bone004
+    400062: Bone004(mirrored)
+    400064: Circle002
+    400066: Circle003
+    400068: Circle004
+    400070: Circle005
+    400072: Circle006
+    400074: Circle007
+    400076: IK Chain001
+    400078: IK Chain002
+    400080: IK Chain003
+    400082: IK Chain004
+    400084: IK Chain005
+    400086: IK Chain006
+    400088: NGon001
+    400090: NGon002
+    400092: NGon003
+    400094: NGon004
+    400096: NGon005
+    400098: NGon006
+    400100: Point001
+    400102: Point002
+    400104: Point003
+    400106: Point004
+    400108: Point005
+    400110: Point006
+    400112: spider
+    400114: //RootNode
+    4300000: spider
+    9500000: //RootNode
+    13700000: spider
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

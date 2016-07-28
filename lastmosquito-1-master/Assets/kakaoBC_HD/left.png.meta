@@ -1,0 +1,83 @@
+fileFormatVersion: 2
+guid: 2ef0314751830914791311f403fcb483
+timeCreated: 1468162495
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: left_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: left_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 217
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.3806, y: 47.455223}
+        - {x: 69.3806, y: 93.45522}
+        - {x: 36.3806, y: 107.45522}
+        - {x: -30.6194, y: 107.45522}
+        - {x: -35.6194, y: 106.45522}
+        - {x: -66.6194, y: 93.45522}
+        - {x: -103.6194, y: 51.455223}
+        - {x: -103.6194, y: -44.544777}
+        - {x: -58.6194, y: -96.54478}
+        - {x: -26.6194, y: -105.54478}
+        - {x: 33.3806, y: -105.54478}
+        - {x: 83.3806, y: -79.54478}
+        - {x: 105.3806, y: -35.544777}
+        - {x: 105.3806, y: 33.455223}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

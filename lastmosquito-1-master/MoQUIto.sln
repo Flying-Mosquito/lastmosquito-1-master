@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoQUIto.CSharp.Plugins", "MoQUIto.CSharp.Plugins.csproj", "{F0316C25-2C8A-0F11-9710-E1980F01A6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoQUIto.CSharp", "MoQUIto.CSharp.csproj", "{CCCE6B89-14CC-5645-9646-729638496AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoQUIto.CSharp.Editor", "MoQUIto.CSharp.Editor.csproj", "{0D415531-650D-7B76-3338-73C74AEB439F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0316C25-2C8A-0F11-9710-E1980F01A6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0316C25-2C8A-0F11-9710-E1980F01A6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0316C25-2C8A-0F11-9710-E1980F01A6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0316C25-2C8A-0F11-9710-E1980F01A6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCE6B89-14CC-5645-9646-729638496AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCE6B89-14CC-5645-9646-729638496AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCE6B89-14CC-5645-9646-729638496AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCE6B89-14CC-5645-9646-729638496AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D415531-650D-7B76-3338-73C74AEB439F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D415531-650D-7B76-3338-73C74AEB439F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D415531-650D-7B76-3338-73C74AEB439F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D415531-650D-7B76-3338-73C74AEB439F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
